@@ -17,3 +17,10 @@
 (define first-n-numbers
   (lambda (n)
     (cdr (iota (+ n 1)))))
+    
+;;; File:
+;;;   utils.rkt
+;;; Author:
+;;;   Angela Liu
+;;; Summary:
+;;;   A few sample utilities, created as part of a lab on GitHub.
